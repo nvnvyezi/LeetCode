@@ -13,3 +13,5 @@
 - [最长公共前缀](https://github.com/nvnvyezi/LeetCode/blob/master/14.%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%89%8D%E7%BC%80.js)
 
 - [有效的括号](https://github.com/nvnvyezi/LeetCode/blob/master/20.%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7.js)
+
+- [合并两个有序列表](https://github.com/nvnvyezi/LeetCode/blob/master/21.%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8.js)
