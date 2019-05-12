@@ -31,3 +31,5 @@
 - [最后一个单词的长度](https://github.com/nvnvyezi/LeetCode/blob/master/58.%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E5%8D%95%E8%AF%8D%E7%9A%84%E9%95%BF%E5%BA%A6.js)
 
 - [加一](https://github.com/nvnvyezi/LeetCode/blob/master/66.%E5%8A%A0%E4%B8%80.js)
+
+- [二进制求和](https://github.com/nvnvyezi/LeetCode/blob/master/67.6%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%B1%82%E5%92%8C.js)
