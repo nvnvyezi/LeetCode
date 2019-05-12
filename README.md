@@ -25,3 +25,5 @@
 - [搜索插入位置](https://github.com/nvnvyezi/LeetCode/blob/master/35.%E6%90%9C%E7%B4%A2%E6%8F%92%E5%85%A5%E4%BD%8D%E7%BD%AE.js)
 
 - [搜索插入位置](https://github.com/nvnvyezi/LeetCode/blob/master/38.%E6%8A%A5%E6%95%B0.js)
+
+- [最大子序和](https://github.com/nvnvyezi/LeetCode/blob/master/53.%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%92%8C.js)
