@@ -27,3 +27,7 @@
 - [搜索插入位置](https://github.com/nvnvyezi/LeetCode/blob/master/38.%E6%8A%A5%E6%95%B0.js)
 
 - [最大子序和](https://github.com/nvnvyezi/LeetCode/blob/master/53.%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%92%8C.js)
+
+- [最后一个单词的长度](https://github.com/nvnvyezi/LeetCode/blob/master/58.%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E5%8D%95%E8%AF%8D%E7%9A%84%E9%95%BF%E5%BA%A6.js)
+
+- [加一](https://github.com/nvnvyezi/LeetCode/blob/master/66.%E5%8A%A0%E4%B8%80.js)
