@@ -23,3 +23,5 @@
 - [实现 str-str](https://github.com/nvnvyezi/LeetCode/blob/master/28.%E5%AE%9E%E7%8E%B0str-str.js)
 
 - [搜索插入位置](https://github.com/nvnvyezi/LeetCode/blob/master/35.%E6%90%9C%E7%B4%A2%E6%8F%92%E5%85%A5%E4%BD%8D%E7%BD%AE.js)
+
+- [搜索插入位置](https://github.com/nvnvyezi/LeetCode/blob/master/38.%E6%8A%A5%E6%95%B0.js)
