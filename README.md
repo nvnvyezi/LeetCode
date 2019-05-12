@@ -33,3 +33,5 @@
 - [加一](https://github.com/nvnvyezi/LeetCode/blob/master/66.%E5%8A%A0%E4%B8%80.js)
 
 - [二进制求和](https://github.com/nvnvyezi/LeetCode/blob/master/67.6%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%B1%82%E5%92%8C.js)
+
+- [x-的平方根](https://github.com/nvnvyezi/LeetCode/blob/master/69.x-%E7%9A%84%E5%B9%B3%E6%96%B9%E6%A0%B9.js)
