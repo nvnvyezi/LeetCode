@@ -55,3 +55,5 @@
 - [平衡二叉树](https://github.com/nvnvyezi/LeetCode/blob/master/110.%E5%B9%B3%E8%A1%A1%E4%BA%8C%E5%8F%89%E6%A0%91.js)
 
 - [二叉树的最小深度](https://github.com/nvnvyezi/LeetCode/blob/master/111.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E5%B0%8F%E6%B7%B1%E5%BA%A6.js)
+
+- [路径总和](https://github.com/nvnvyezi/LeetCode/blob/master/112.%E8%B7%AF%E5%BE%84%E6%80%BB%E5%92%8C.js)
