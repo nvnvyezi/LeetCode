@@ -70,4 +70,6 @@
 
 - [只出现一次的数字](https://github.com/nvnvyezi/LeetCode/blob/master/136.%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E6%95%B0%E5%AD%97.js)
 
-- [环形链表](https://github.com/nvnvyezi/LeetCode/blob/master/1441.%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8.js)
+- [环形链表](https://github.com/nvnvyezi/LeetCode/blob/master/141.%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8.js)
+
+- [最小栈](https://github.com/nvnvyezi/LeetCode/blob/master/155.%E6%9C%80%E5%B0%8F%E6%A0%88.js)
