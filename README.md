@@ -69,3 +69,5 @@
 - [买卖股票的最佳时机-ii](https://github.com/nvnvyezi/LeetCode/blob/master/125.%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E4%B8%B2.js)
 
 - [只出现一次的数字](https://github.com/nvnvyezi/LeetCode/blob/master/136.%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E6%95%B0%E5%AD%97.js)
+
+- [环形链表](https://github.com/nvnvyezi/LeetCode/blob/master/1441.%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8.js)
