@@ -89,3 +89,5 @@
 - [旋转数组](https://github.com/nvnvyezi/LeetCode/blob/master/189.%E6%97%8B%E8%BD%AC%E6%95%B0%E7%BB%84.js)
 
 - [颠倒二进制位](https://github.com/nvnvyezi/LeetCode/blob/master/190.%E9%A2%A0%E5%80%92%E4%BA%8C%E8%BF%9B%E5%88%B6%E4%BD%8D.js)
+
+- [位-1-的个数](https://github.com/nvnvyezi/LeetCode/blob/master/191.%E4%BD%8D-1-%E7%9A%84%E4%B8%AA%E6%95%B0.js)
