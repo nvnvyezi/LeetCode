@@ -83,3 +83,5 @@
 - [求众数](https://github.com/nvnvyezi/LeetCode/blob/master/169.%E6%B1%82%E4%BC%97%E6%95%B0.js)
 
 - [Excel 表列序号](https://github.com/nvnvyezi/LeetCode/blob/master/171.excel%E8%A1%A8%E5%88%97%E5%BA%8F%E5%8F%B7.js)
+
+- [阶乘后的零](https://github.com/nvnvyezi/LeetCode/blob/master/172.%E9%98%B6%E4%B9%98%E5%90%8E%E7%9A%84%E9%9B%B6.js)
