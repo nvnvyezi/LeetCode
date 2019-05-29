@@ -87,3 +87,5 @@
 - [阶乘后的零](https://github.com/nvnvyezi/LeetCode/blob/master/172.%E9%98%B6%E4%B9%98%E5%90%8E%E7%9A%84%E9%9B%B6.js)
 
 - [旋转数组](https://github.com/nvnvyezi/LeetCode/blob/master/189.%E6%97%8B%E8%BD%AC%E6%95%B0%E7%BB%84.js)
+
+- [颠倒二进制位](https://github.com/nvnvyezi/LeetCode/blob/master/190.%E9%A2%A0%E5%80%92%E4%BA%8C%E8%BF%9B%E5%88%B6%E4%BD%8D.js)
