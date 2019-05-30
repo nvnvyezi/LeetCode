@@ -97,3 +97,5 @@
 - [快乐树](https://github.com/nvnvyezi/LeetCode/blob/master/202.%E5%BF%AB%E4%B9%90%E6%A0%91.js)
 
 - [移除链表元素](https://github.com/nvnvyezi/LeetCode/blob/master/203.%E7%A7%BB%E9%99%A4%E9%93%BE%E8%A1%A8%E5%85%83%E7%B4%A0.js)
+
+- [计数质数](https://github.com/nvnvyezi/LeetCode/blob/master/204.%E8%AE%A1%E6%95%B0%E8%B4%A8%E6%95%B0.js)
