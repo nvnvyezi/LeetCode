@@ -93,3 +93,5 @@
 - [位-1-的个数](https://github.com/nvnvyezi/LeetCode/blob/master/191.%E4%BD%8D-1-%E7%9A%84%E4%B8%AA%E6%95%B0.js)
 
 - [打家劫舍](https://github.com/nvnvyezi/LeetCode/blob/master/198.%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D.js)
+
+- [快乐树](https://github.com/nvnvyezi/LeetCode/blob/master/202.%E5%BF%AB%E4%B9%90%E6%A0%91.js)
