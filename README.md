@@ -99,3 +99,5 @@
 - [移除链表元素](https://github.com/nvnvyezi/LeetCode/blob/master/203.%E7%A7%BB%E9%99%A4%E9%93%BE%E8%A1%A8%E5%85%83%E7%B4%A0.js)
 
 - [计数质数](https://github.com/nvnvyezi/LeetCode/blob/master/204.%E8%AE%A1%E6%95%B0%E8%B4%A8%E6%95%B0.js)
+
+- [同构字符串](https://github.com/nvnvyezi/LeetCode/blob/master/205.%E5%90%8C%E6%9E%84%E5%AD%97%E7%AC%A6%E4%B8%B2.js)
