@@ -103,3 +103,5 @@
 - [同构字符串](https://github.com/nvnvyezi/LeetCode/blob/master/205.%E5%90%8C%E6%9E%84%E5%AD%97%E7%AC%A6%E4%B8%B2.js)
 
 - [反转链表](https://github.com/nvnvyezi/LeetCode/blob/master/206.%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.js)
+
+- [存在重复元素](https://github.com/nvnvyezi/LeetCode/blob/master/217.%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0.js)
