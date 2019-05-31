@@ -107,3 +107,5 @@
 - [存在重复元素](https://github.com/nvnvyezi/LeetCode/blob/master/217.%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0.js)
 
 - [翻转二叉树](https://github.com/nvnvyezi/LeetCode/blob/master/226.%E7%BF%BB%E8%BD%AC%E4%BA%8C%E5%8F%89%E6%A0%91.js)
+
+- [2-的幂](https://github.com/nvnvyezi/LeetCode/blob/master/231.2-%E7%9A%84%E5%B9%82.js)
