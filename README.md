@@ -106,4 +106,4 @@
 
 - [存在重复元素](https://github.com/nvnvyezi/LeetCode/blob/master/217.%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0.js)
 
-- [用队列实现栈](https://github.com/nvnvyezi/LeetCode/blob/master/225.%E7%94%A8%E9%98%9F%E5%88%97%E5%AE%9E%E7%8E%B0%E6%A0%88.js)
+- [翻转二叉树](https://github.com/nvnvyezi/LeetCode/blob/master/226.%E7%BF%BB%E8%BD%AC%E4%BA%8C%E5%8F%89%E6%A0%91.js)
