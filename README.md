@@ -109,3 +109,5 @@
 - [翻转二叉树](https://github.com/nvnvyezi/LeetCode/blob/master/226.%E7%BF%BB%E8%BD%AC%E4%BA%8C%E5%8F%89%E6%A0%91.js)
 
 - [2-的幂](https://github.com/nvnvyezi/LeetCode/blob/master/231.2-%E7%9A%84%E5%B9%82.js)
+
+- [用栈实现队列](https://github.com/nvnvyezi/LeetCode/blob/master/232.%E7%94%A8%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.js)
