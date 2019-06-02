@@ -123,3 +123,5 @@
 - [二叉树的所有路径](https://github.com/nvnvyezi/LeetCode/blob/master/257.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%89%80%E6%9C%89%E8%B7%AF%E5%BE%84.js)
 
 - [各位相加](https://github.com/nvnvyezi/LeetCode/blob/master/258.%E5%90%84%E4%BD%8D%E7%9B%B8%E5%8A%A0.js)
+
+- [丑数](https://github.com/nvnvyezi/LeetCode/blob/master/263.%E4%B8%91%E6%95%B0.js)
