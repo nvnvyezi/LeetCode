@@ -113,3 +113,5 @@
 - [用栈实现队列](https://github.com/nvnvyezi/LeetCode/blob/master/232.%E7%94%A8%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.js)
 
 - [回文链表](https://github.com/nvnvyezi/LeetCode/blob/master/234.%E5%9B%9E%E6%96%87%E9%93%BE%E8%A1%A.js)
+
+- [二叉搜索树的公共祖先](https://github.com/nvnvyezi/LeetCode/blob/master/235.%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88.js)
