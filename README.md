@@ -125,3 +125,5 @@
 - [各位相加](https://github.com/nvnvyezi/LeetCode/blob/master/258.%E5%90%84%E4%BD%8D%E7%9B%B8%E5%8A%A0.js)
 
 - [丑数](https://github.com/nvnvyezi/LeetCode/blob/master/263.%E4%B8%91%E6%95%B0.js)
+
+- [缺失数字](https://github.com/nvnvyezi/LeetCode/blob/master/268.%E7%BC%BA%E5%A4%B1%E6%95%B0%E5%AD%97.js)
