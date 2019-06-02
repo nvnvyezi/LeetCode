@@ -119,3 +119,5 @@
 - [删除链表中的节点](https://github.com/nvnvyezi/LeetCode/blob/master/237.%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E8%8A%82%E7%82%B9.js)
 
 - [有效的字母异位词](https://github.com/nvnvyezi/LeetCode/blob/master/242.%E6%9C%89%E6%95%88%E7%9A%84%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D.js)
+
+- [二叉树的所有路径](https://github.com/nvnvyezi/LeetCode/blob/master/257.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%89%80%E6%9C%89%E8%B7%AF%E5%BE%84.js)
