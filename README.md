@@ -135,3 +135,5 @@
 - [单词模式](https://github.com/nvnvyezi/LeetCode/blob/master/290.%E5%8D%95%E8%AF%8D%E6%A8%A1%E5%BC%8F.js)
 
 - [nim-游戏](https://github.com/nvnvyezi/LeetCode/blob/master/292.nim-%E6%B8%B8%E6%88%8F.js)
+
+- [区域和检索-数组不可变](https://github.com/nvnvyezi/LeetCode/blob/master/303.%E5%8C%BA%E5%9F%9F%E5%92%8C%E6%A3%80%E7%B4%A2-%E6%95%B0%E7%BB%84%E4%B8%8D%E5%8F%AF%E5%8F%98.js)
