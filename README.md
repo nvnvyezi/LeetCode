@@ -133,3 +133,5 @@
 - [移动零](https://github.com/nvnvyezi/LeetCode/blob/master/283.%E7%A7%BB%E5%8A%A8%E9%9B%B6.js)
 
 - [单词模式](https://github.com/nvnvyezi/LeetCode/blob/master/290.%E5%8D%95%E8%AF%8D%E6%A8%A1%E5%BC%8F.js)
+
+- [nim-游戏](https://github.com/nvnvyezi/LeetCode/blob/master/292.nim-%E6%B8%B8%E6%88%8F.js)
