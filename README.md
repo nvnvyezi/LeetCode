@@ -131,3 +131,5 @@
 - [第一个错误的版本](https://github.com/nvnvyezi/LeetCode/blob/master/278.%E7%AC%AC%E4%B8%80%E4%B8%AA%E9%94%99%E8%AF%AF%E7%9A%84%E7%89%88%E6%9C%AC.js)
 
 - [移动零](https://github.com/nvnvyezi/LeetCode/blob/master/283.%E7%A7%BB%E5%8A%A8%E9%9B%B6.js)
+
+- [单词模式](https://github.com/nvnvyezi/LeetCode/blob/master/290.%E5%8D%95%E8%AF%8D%E6%A8%A1%E5%BC%8F.js)
