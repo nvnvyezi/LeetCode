@@ -148,4 +148,4 @@
 
 - [两个数组的交集-ii](https://github.com/nvnvyezi/LeetCode/blob/master/349.%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E4%BA%A4%E9%9B%86-ii.js)
 
-- [有效的完全平方数](https://github.com/nvnvyezi/LeetCode/blob/master/367.%E6%9C%89%E6%95%88%E7%9A%84%E5%AE%8C%E5%85%A8%E5%B9%B3%E6%96%B9%E6%95%B0.js)
+- [两整数之和](https://github.com/nvnvyezi/LeetCode/blob/master/371.%E4%B8%A4%E6%95%B4%E6%95%B0%E4%B9%8B%E5%92%8C.js)
