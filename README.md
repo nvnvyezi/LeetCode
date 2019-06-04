@@ -149,3 +149,5 @@
 - [两个数组的交集-ii](https://github.com/nvnvyezi/LeetCode/blob/master/349.%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E4%BA%A4%E9%9B%86-ii.js)
 
 - [两整数之和](https://github.com/nvnvyezi/LeetCode/blob/master/371.%E4%B8%A4%E6%95%B4%E6%95%B0%E4%B9%8B%E5%92%8C.js)
+
+- [赎金信](https://github.com/nvnvyezi/LeetCode/blob/master/383.%E8%B5%8E%E9%87%91%E4%BF%A1.js)
