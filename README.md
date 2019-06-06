@@ -153,3 +153,5 @@
 - [赎金信](https://github.com/nvnvyezi/LeetCode/blob/master/383.%E8%B5%8E%E9%87%91%E4%BF%A1.js)
 
 - [字符串中的第一个唯一字符](https://github.com/nvnvyezi/LeetCode/blob/master/387.%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%94%AF%E4%B8%80%E5%AD%97%E7%AC%A6.js)
+
+- [找不同](https://github.com/nvnvyezi/LeetCode/blob/master/389.%E6%89%BE%E4%B8%8D%E5%90%8C.js)
