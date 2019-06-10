@@ -165,3 +165,5 @@
 - [数字转换为十六进制数](https://github.com/nvnvyezi/LeetCode/blob/master/405.%E6%95%B0%E5%AD%97%E8%BD%AC%E6%8D%A2%E4%B8%BA%E5%8D%81%E5%85%AD%E8%BF%9B%E5%88%B6%E6%95%B0.js)
 
 - [最长回文串](https://github.com/nvnvyezi/LeetCode/blob/master/409.最长回文串.js)
+
+- [fizz-buzz](https://github.com/nvnvyezi/LeetCode/blob/master/412.fizz-buzz.js)
