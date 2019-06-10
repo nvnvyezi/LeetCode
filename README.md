@@ -167,3 +167,5 @@
 - [最长回文串](https://github.com/nvnvyezi/LeetCode/blob/master/409.最长回文串.js)
 
 - [fizz-buzz](https://github.com/nvnvyezi/LeetCode/blob/master/412.fizz-buzz.js)
+
+- [第三大的数](https://github.com/nvnvyezi/LeetCode/blob/master/414.第三大的数.js)
