@@ -159,3 +159,5 @@
 - [第 n 个数字](https://github.com/nvnvyezi/LeetCode/blob/master/400.%E7%AC%ACn%E4%B8%AA%E6%95%B0%E5%AD%97.js)
 
 - [二进制手表](https://github.com/nvnvyezi/LeetCode/blob/master/401.%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%89%8B%E8%A1%A8.js)
+
+- [左叶子之和](https://github.com/nvnvyezi/LeetCode/blob/master/404.%E5%B7%A6%E5%8F%B6%E5%AD%90%E4%B9%8B%E5%92%8C.js)
