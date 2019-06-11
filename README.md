@@ -171,3 +171,5 @@
 - [第三大的数](https://github.com/nvnvyezi/LeetCode/blob/master/414.第三大的数.js)
 
 - [字符串相加](https://github.com/nvnvyezi/LeetCode/blob/master/415.字符串相加.js)
+
+- [建立四叉树](https://github.com/nvnvyezi/LeetCode/blob/master/427.建立四叉树.js)
