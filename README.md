@@ -175,3 +175,5 @@
 - [建立四叉树](https://github.com/nvnvyezi/LeetCode/blob/master/427.建立四叉树.js)
 
 - [n 叉树的层序遍历](https://github.com/nvnvyezi/LeetCode/blob/master/427.n叉树的层序遍历.js)
+
+- [字符串中的单词数](https://github.com/nvnvyezi/LeetCode/blob/master/434.字符串中的单词数.js)
