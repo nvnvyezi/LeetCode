@@ -8,7 +8,7 @@
       "type": "node",
       "request": "launch",
       "name": "Launch Program",
-      "program": "${workspaceFolder}/438.找到字符串中所有字母异位词.js"
+      "program": "${workspaceFolder}/441.排列硬币.js"
     }
   ]
 }
