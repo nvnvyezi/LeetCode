@@ -8,7 +8,7 @@
       "type": "node",
       "request": "launch",
       "name": "Launch Program",
-      "program": "${workspaceFolder}/441.排列硬币.js"
+      "program": "${workspaceFolder}/443.压缩字符串.js"
     }
   ]
 }
