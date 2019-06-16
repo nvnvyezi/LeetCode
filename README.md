@@ -185,3 +185,5 @@
 - [排列硬币](https://github.com/nvnvyezi/LeetCode/blob/master/441.排列硬币.js)
 
 - [压缩字符串](https://github.com/nvnvyezi/LeetCode/blob/master/443.压缩字符串.js)
+
+- [回旋镖的数量](https://github.com/nvnvyezi/LeetCode/blob/master/447.回旋镖的数量.js)
