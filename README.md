@@ -187,3 +187,5 @@
 - [压缩字符串](https://github.com/nvnvyezi/LeetCode/blob/master/443.压缩字符串.js)
 
 - [回旋镖的数量](https://github.com/nvnvyezi/LeetCode/blob/master/447.回旋镖的数量.js)
+
+- [找到所有数组中消失的数字](https://github.com/nvnvyezi/LeetCode/blob/master/449.找到所有数组中消失的数字.js)
