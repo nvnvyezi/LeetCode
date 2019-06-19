@@ -193,3 +193,5 @@
 - [最小移动次数使数组元素相等](https://github.com/nvnvyezi/LeetCode/blob/master/453.最小移动次数使数组元素相等.js)
 
 - [分发饼干](https://github.com/nvnvyezi/LeetCode/blob/master/455.分发饼干.js)
+
+- [重复的子字符串](https://github.com/nvnvyezi/LeetCode/blob/master/459.重复的子字符串.js)
