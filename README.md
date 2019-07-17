@@ -201,3 +201,5 @@
 - [岛屿的周长](https://github.com/nvnvyezi/LeetCode/blob/master/463.岛屿的周长.js)
 
 - [供暖器](https://github.com/nvnvyezi/LeetCode/blob/master/475.供暖器.js)
+
+- [数字的补数](https://github.com/nvnvyezi/LeetCode/blob/master/476.数字的补数.js)
