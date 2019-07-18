@@ -203,3 +203,5 @@
 - [供暖器](https://github.com/nvnvyezi/LeetCode/blob/master/475.供暖器.js)
 
 - [数字的补数](https://github.com/nvnvyezi/LeetCode/blob/master/476.数字的补数.js)
+
+- [密钥格式化](https://github.com/nvnvyezi/LeetCode/blob/master/482.密钥格式化.js)

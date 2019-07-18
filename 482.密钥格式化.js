@@ -20,4 +20,18 @@
  * @param {number} K
  * @return {string}
  */
-var licenseKeyFormatting = function(S, K) {};
+var licenseKeyFormatting = function(S, K) {
+  // let str = S.split("-").join("");
+  let str = S.replace(/-/g, "");
+  const res = [];
+  while (str.length) {
+    if (str.length > K) {
+      res.unshift(str.slice(-K));
+      str = str.slice(0, -K);
+    } else {
+      res.unshift(str);
+      str = "";
+    }
+  }
+  return res.join("-").toUpperCase();
+};
