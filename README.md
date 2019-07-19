@@ -207,3 +207,5 @@
 - [密钥格式化](https://github.com/nvnvyezi/LeetCode/blob/master/482.密钥格式化.js)
 
 - [最大连续-1-的个数](https://github.com/nvnvyezi/LeetCode/blob/master/485.最大连续-1-的个数.js)
+
+- [构造矩形](https://github.com/nvnvyezi/LeetCode/blob/master/492.构造矩形.js)
