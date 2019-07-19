@@ -209,3 +209,5 @@
 - [最大连续-1-的个数](https://github.com/nvnvyezi/LeetCode/blob/master/485.最大连续-1-的个数.js)
 
 - [构造矩形](https://github.com/nvnvyezi/LeetCode/blob/master/492.构造矩形.js)
+
+- [下一个更大元素-i](https://github.com/nvnvyezi/LeetCode/blob/master/496.下一个更大元素-i.js)
