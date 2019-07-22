@@ -217,3 +217,7 @@
 - [二叉搜索树中的众数](https://github.com/nvnvyezi/LeetCode/blob/master/501.二叉搜索树中的众数.js)
 
 - [七进制数](https://github.com/nvnvyezi/LeetCode/blob/master/504.七进制数.js)
+
+- [相对名次](https://github.com/nvnvyezi/LeetCode/blob/master/506.相对名次.js)
+
+- [完美数](https://github.com/nvnvyezi/LeetCode/blob/master/507.完美数.js)
