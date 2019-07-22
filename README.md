@@ -215,3 +215,5 @@
 - [键盘行](https://github.com/nvnvyezi/LeetCode/blob/master/500.键盘行.js)
 
 - [二叉搜索树中的众数](https://github.com/nvnvyezi/LeetCode/blob/master/501.二叉搜索树中的众数.js)
+
+- [七进制数](https://github.com/nvnvyezi/LeetCode/blob/master/504.七进制数.js)
