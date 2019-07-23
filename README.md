@@ -223,3 +223,5 @@
 - [完美数](https://github.com/nvnvyezi/LeetCode/blob/master/507.完美数.js)
 
 - [斐波那契数](https://github.com/nvnvyezi/LeetCode/blob/master/509.斐波那契数.js)
+
+- [检测大写字母](https://github.com/nvnvyezi/LeetCode/blob/master/520.检测大写字母.js)
