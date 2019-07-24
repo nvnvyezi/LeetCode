@@ -226,4 +226,6 @@
 
 - [检测大写字母](https://github.com/nvnvyezi/LeetCode/blob/master/520.检测大写字母.js)
 
-- [最长特殊序列-i](https://github.com/nvnvyezi/LeetCode/blob/master/521.最长特殊序列-i.js)
+- [最长特殊序列-i](https://github.com/nvnvyezi/LeetCode/blob/master/521.最长特殊序列-ⅰ.js)
+
+- [二叉搜索数的最小绝对差](https://github.com/nvnvyezi/LeetCode/blob/master/530.二叉搜索数的最小绝对差.js)
