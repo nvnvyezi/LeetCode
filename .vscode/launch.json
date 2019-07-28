@@ -19,7 +19,7 @@
       "type": "node",
       "request": "launch",
       "name": "Launch Program",
-      "program": "${workspaceFolder}/3.无重复字符的最长子串.js"
+      "program": "${workspaceFolder}/209.长度最小的子数组.js"
     }
   ]
 }
