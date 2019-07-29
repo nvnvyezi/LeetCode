@@ -238,6 +238,8 @@
 
 - [二叉树的直径](https://github.com/nvnvyezi/LeetCode/blob/master/543.二叉树的直径-ii.js)
 
+- [学生出勤记录](https://github.com/nvnvyezi/LeetCode/blob/master/551.学生出勤记录-i.js)
+
 #### Medium
 
 - [两数相加](https://github.com/nvnvyezi/LeetCode/blob/master/2.两数相加.js)
