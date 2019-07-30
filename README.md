@@ -249,3 +249,5 @@
 - [无重复字符的最长子串](https://github.com/nvnvyezi/LeetCode/blob/master/3.无重复字符的最长子串.js)
 
 - [长度最小的子数组](https://github.com/nvnvyezi/LeetCode/blob/master/209.长度最小的子数组.js)
+
+- [最长回文字串](https://github.com/nvnvyezi/LeetCode/blob/master/5.最长回文字串.js)
