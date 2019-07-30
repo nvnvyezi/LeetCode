@@ -255,3 +255,5 @@
 - [长度最小的子数组](https://github.com/nvnvyezi/LeetCode/blob/master/209.长度最小的子数组.js)
 
 - [最长回文字串](https://github.com/nvnvyezi/LeetCode/blob/master/5.最长回文字串.js)
+
+- [z-字形变换](https://github.com/nvnvyezi/LeetCode/blob/master/6.z-字形变换.js)
