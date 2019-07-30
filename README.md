@@ -242,6 +242,8 @@
 
 - [反转字符串中的单词](https://github.com/nvnvyezi/LeetCode/blob/master/557.反转字符串中的单词-iii.js)
 
+- [四叉树交集](https://github.com/nvnvyezi/LeetCode/blob/master/558.四叉树交集.js)
+
 #### Medium
 
 - [两数相加](https://github.com/nvnvyezi/LeetCode/blob/master/2.两数相加.js)
