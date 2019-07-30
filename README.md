@@ -244,6 +244,8 @@
 
 - [四叉树交集](https://github.com/nvnvyezi/LeetCode/blob/master/558.四叉树交集.js)
 
+- [n 叉树的最大深度](https://github.com/nvnvyezi/LeetCode/blob/master/559.n叉树的最大深度.js)
+
 #### Medium
 
 - [两数相加](https://github.com/nvnvyezi/LeetCode/blob/master/2.两数相加.js)
