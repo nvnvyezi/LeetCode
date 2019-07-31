@@ -246,6 +246,8 @@
 
 - [n 叉树的最大深度](https://github.com/nvnvyezi/LeetCode/blob/master/559.n叉树的最大深度.js)
 
+- [数组拆分](https://github.com/nvnvyezi/LeetCode/blob/master/561.数组拆分.js)
+
 #### Medium
 
 - [两数相加](https://github.com/nvnvyezi/LeetCode/blob/master/2.两数相加.js)
