@@ -248,6 +248,8 @@
 
 - [数组拆分](https://github.com/nvnvyezi/LeetCode/blob/master/561.数组拆分.js)
 
+- [二叉树的坡度](https://github.com/nvnvyezi/LeetCode/blob/master/563.二叉树的坡度.js)
+
 #### Medium
 
 - [两数相加](https://github.com/nvnvyezi/LeetCode/blob/master/2.两数相加.js)
