@@ -19,7 +19,7 @@
       "type": "node",
       "request": "launch",
       "name": "Launch Program",
-      "program": "${workspaceFolder}/209.长度最小的子数组.js"
+      "program": "${workspaceFolder}/566.重塑矩阵.js"
     }
   ]
 }
