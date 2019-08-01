@@ -252,6 +252,8 @@
 
 - [重塑矩阵](https://github.com/nvnvyezi/LeetCode/blob/master/566.重塑矩阵.js)
 
+- [另一个树的子树](https://github.com/nvnvyezi/LeetCode/blob/master/572.另一个树的子树.js)
+
 #### Medium
 
 - [两数相加](https://github.com/nvnvyezi/LeetCode/blob/master/2.两数相加.js)
