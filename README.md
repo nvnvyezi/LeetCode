@@ -254,6 +254,8 @@
 
 - [另一个树的子树](https://github.com/nvnvyezi/LeetCode/blob/master/572.另一个树的子树.js)
 
+- [分糖果](https://github.com/nvnvyezi/LeetCode/blob/master/575.分糖果.js)
+
 #### Medium
 
 - [两数相加](https://github.com/nvnvyezi/LeetCode/blob/master/2.两数相加.js)
