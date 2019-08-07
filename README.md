@@ -256,6 +256,8 @@
 
 - [分糖果](https://github.com/nvnvyezi/LeetCode/blob/master/575.分糖果.js)
 
+- [最短无序连续子数组](https://github.com/nvnvyezi/LeetCode/blob/master/581.最短无序连续子数组.js)
+
 #### Medium
 
 - [两数相加](https://github.com/nvnvyezi/LeetCode/blob/master/2.两数相加.js)
@@ -273,3 +275,5 @@
 - [盛最多水的容器](https://github.com/nvnvyezi/LeetCode/blob/master/11.盛最多水的容器.js)
 
 - [整数转罗马数字](https://github.com/nvnvyezi/LeetCode/blob/master/12.整数转罗马数字.js)
+
+- [三数之和](https://github.com/nvnvyezi/LeetCode/blob/master/15.三数之和.js)
