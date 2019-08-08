@@ -260,6 +260,8 @@
 
 - [n 叉树的前序遍历](https://github.com/nvnvyezi/LeetCode/blob/master/589.n叉树的前序遍历.js)
 
+- [n 叉树的后序遍历](https://github.com/nvnvyezi/LeetCode/blob/master/590.n叉树的后序遍历.js)
+
 #### Medium
 
 - [两数相加](https://github.com/nvnvyezi/LeetCode/blob/master/2.两数相加.js)
