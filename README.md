@@ -262,6 +262,8 @@
 
 - [n 叉树的后序遍历](https://github.com/nvnvyezi/LeetCode/blob/master/590.n叉树的后序遍历.js)
 
+- [最长和谐子序列](https://github.com/nvnvyezi/LeetCode/blob/master/594.最长和谐子序列.js)
+
 #### Medium
 
 - [两数相加](https://github.com/nvnvyezi/LeetCode/blob/master/2.两数相加.js)
