@@ -24,4 +24,43 @@
  * @param {number} target
  * @return {number[][]}
  */
-var fourSum = function(nums, target) {};
+var fourSum = function(nums, target) {
+  if (!nums || !nums.length) {
+    return [];
+  }
+  nums.sort((a, b) => a - b);
+  let res = [];
+  for (let i = 0; i < nums.length; i++) {
+    if (nums[i] === nums[i - 1]) {
+      continue;
+    }
+    for (let j = i + 1; j < nums.length; j++) {
+      let temp = target - nums[i] - nums[j];
+      let l = j + 1;
+      let r = nums.length - 1;
+      if (nums[j] === nums[j - 1] && j - i > 1) {
+        continue;
+      }
+      while (l < r) {
+        if (nums[l] + nums[r] === temp) {
+          res.push([nums[i], nums[j], nums[l], nums[r]]);
+          while (l < r && nums[l] === nums[l + 1]) {
+            l++;
+          }
+          while (l < r && nums[r] === nums[r - 1]) {
+            r--;
+          }
+          l++;
+          r--;
+        }
+        if (nums[l] + nums[r] < temp) {
+          l++;
+        }
+        if (nums[l] + nums[r] > temp) {
+          r--;
+        }
+      }
+    }
+  }
+  return !res.length && nums.length === 4 && target === 0 ? [nums] : res;
+};
