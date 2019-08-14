@@ -264,6 +264,8 @@
 
 - [最长和谐子序列](https://github.com/nvnvyezi/LeetCode/blob/master/594.最长和谐子序列.js)
 
+- [范围求和-ii](https://github.com/nvnvyezi/LeetCode/blob/master/598.范围求和-ii.js)
+
 #### Medium
 
 - [两数相加](https://github.com/nvnvyezi/LeetCode/blob/master/2.两数相加.js)
