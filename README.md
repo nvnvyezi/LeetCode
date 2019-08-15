@@ -266,6 +266,8 @@
 
 - [范围求和-ii](https://github.com/nvnvyezi/LeetCode/blob/master/598.范围求和-ii.js)
 
+- [两个列表的最小索引总和](https://github.com/nvnvyezi/LeetCode/blob/master/599.两个列表的最小索引总和.js)
+
 #### Medium
 
 - [两数相加](https://github.com/nvnvyezi/LeetCode/blob/master/2.两数相加.js)
