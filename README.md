@@ -295,3 +295,5 @@
 - [四数之和](https://github.com/nvnvyezi/LeetCode/blob/master/18.四数之和.js)
 
 - [删除链表的倒数第 N 个节点](https://github.com/nvnvyezi/LeetCode/blob/master/19.删除链表的倒数第N个节点.js)
+
+- [括号生成](https://github.com/nvnvyezi/LeetCode/blob/master/22.括号生成.js)
