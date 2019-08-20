@@ -270,6 +270,8 @@
 
 - [种花问题](https://github.com/nvnvyezi/LeetCode/blob/master/605.种花问题.js)
 
+- [根据二叉树创建字符串](https://github.com/nvnvyezi/LeetCode/blob/master/606.根据二叉树创建字符串.js)
+
 #### Medium
 
 - [两数相加](https://github.com/nvnvyezi/LeetCode/blob/master/2.两数相加.js)
