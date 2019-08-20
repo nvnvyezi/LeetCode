@@ -268,6 +268,8 @@
 
 - [两个列表的最小索引总和](https://github.com/nvnvyezi/LeetCode/blob/master/599.两个列表的最小索引总和.js)
 
+- [种花问题](https://github.com/nvnvyezi/LeetCode/blob/master/605.种花问题.js)
+
 #### Medium
 
 - [两数相加](https://github.com/nvnvyezi/LeetCode/blob/master/2.两数相加.js)

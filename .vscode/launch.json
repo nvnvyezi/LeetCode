@@ -19,7 +19,7 @@
       "type": "node",
       "request": "launch",
       "name": "Launch Program",
-      "program": "${workspaceFolder}/566.重塑矩阵.js"
+      "program": "${workspaceFolder}/605.种花问题.js"
     }
   ]
 }
