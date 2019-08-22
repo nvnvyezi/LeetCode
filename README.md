@@ -272,6 +272,8 @@
 
 - [根据二叉树创建字符串](https://github.com/nvnvyezi/LeetCode/blob/master/606.根据二叉树创建字符串.js)
 
+- [合并二叉树](https://github.com/nvnvyezi/LeetCode/blob/master/617.合并二叉树.js)
+
 #### Medium
 
 - [两数相加](https://github.com/nvnvyezi/LeetCode/blob/master/2.两数相加.js)
