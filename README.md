@@ -307,3 +307,5 @@
 - [括号生成](https://github.com/nvnvyezi/LeetCode/blob/master/22.括号生成.js)
 
 - [两数相除](https://github.com/nvnvyezi/LeetCode/blob/master/29.两数相除.js)
+
+- [下一个排列](https://github.com/nvnvyezi/LeetCode/blob/master/31.下一个排列.js)
