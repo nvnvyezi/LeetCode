@@ -274,6 +274,8 @@
 
 - [合并二叉树](https://github.com/nvnvyezi/LeetCode/blob/master/617.合并二叉树.js)
 
+- [三个数的最大乘积](https://github.com/nvnvyezi/LeetCode/blob/master/628.三个数的最大乘积.js)
+
 #### Medium
 
 - [两数相加](https://github.com/nvnvyezi/LeetCode/blob/master/2.两数相加.js)
