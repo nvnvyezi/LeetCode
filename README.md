@@ -311,3 +311,5 @@
 - [两数相除](https://github.com/nvnvyezi/LeetCode/blob/master/29.两数相除.js)
 
 - [下一个排列](https://github.com/nvnvyezi/LeetCode/blob/master/31.下一个排列.js)
+
+- [搜索旋转排序数组](https://github.com/nvnvyezi/LeetCode/blob/master/33.搜索旋转排序数组.js)
