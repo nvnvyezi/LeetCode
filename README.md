@@ -276,6 +276,8 @@
 
 - [三个数的最大乘积](https://github.com/nvnvyezi/LeetCode/blob/master/628.三个数的最大乘积.js)
 
+- [平方数之和](https://github.com/nvnvyezi/LeetCode/blob/master/633.平方数之和.js)
+
 #### Medium
 
 - [两数相加](https://github.com/nvnvyezi/LeetCode/blob/master/2.两数相加.js)
