@@ -278,6 +278,8 @@
 
 - [平方数之和](https://github.com/nvnvyezi/LeetCode/blob/master/633.平方数之和.js)
 
+- [二叉树的层平均值](https://github.com/nvnvyezi/LeetCode/blob/master/637.二叉树的层平均值.js)
+
 #### Medium
 
 - [两数相加](https://github.com/nvnvyezi/LeetCode/blob/master/2.两数相加.js)
