@@ -280,6 +280,8 @@
 
 - [二叉树的层平均值](https://github.com/nvnvyezi/LeetCode/blob/master/637.二叉树的层平均值.js)
 
+- [子数组最大平均数](https://github.com/nvnvyezi/LeetCode/blob/master/643.子数组最大平均数.js)
+
 #### Medium
 
 - [两数相加](https://github.com/nvnvyezi/LeetCode/blob/master/2.两数相加.js)
