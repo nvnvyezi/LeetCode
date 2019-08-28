@@ -317,3 +317,5 @@
 - [下一个排列](https://github.com/nvnvyezi/LeetCode/blob/master/31.下一个排列.js)
 
 - [搜索旋转排序数组](https://github.com/nvnvyezi/LeetCode/blob/master/33.搜索旋转排序数组.js)
+
+- [在排序数组中查找元素的第一个和最后一个位置](https://github.com/nvnvyezi/LeetCode/blob/master/34.在排序数组中查找元素的第一个和最后一个位置.js)
